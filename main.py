@@ -4,7 +4,7 @@ import pandas as pd
 # 1. Crear un Diccionario con datos simulados de ventas
 datos_ventas = {
     "Mes": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio"],
-    "Ventas_USD": [1200, 1800, 2100, 1700, 2600, 3100],
+    "Ventas_USD": [1200, 1800, 3200, 1700, 2600, 3100],
 }
 
 # 2. Convertir el diccionario en un DataFrame de Pandas
